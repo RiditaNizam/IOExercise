@@ -41,7 +41,6 @@ public class UserRegistration {
 	}
 
 	private static void writeToFile(List<String> personDetails) {
-
 		Writer writer = null;
 		BufferedWriter bufferedWriter = null;
 
